@@ -1,0 +1,6 @@
+{
+  "name": "Samyra Moreira Links",
+  "description": "Portal de links e mentoria de Samyra Moreira",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
